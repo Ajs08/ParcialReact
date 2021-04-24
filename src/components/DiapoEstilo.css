@@ -1,0 +1,11 @@
+.superior {
+    padding: 30px;
+}
+
+.boton-res, .boton {
+    padding: 10px;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    color: white;
+}
